@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Clone the latest code from GitHub
+      # Step 1: Clone the latest code from GitHu
       - name: Get latest code
         uses: actions/checkout@v4
 
